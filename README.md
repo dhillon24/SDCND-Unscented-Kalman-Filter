@@ -48,3 +48,8 @@ OUTPUT: values provided by the c++ program to the simulator
 4. Run it: `./UnscentedKF path/to/input.txt path/to/output.txt`. You can find
    some sample inputs in 'data/'.
     - eg. `./UnscentedKF ../data/obj_pose-laser-radar-synthetic-input.txt`
+    
+## Videos
+
+* [Dataset 1](https://youtu.be/UfHYCi0L3pA)
+* [Dataset 2](https://youtu.be/XCFwf--ZYcw)
